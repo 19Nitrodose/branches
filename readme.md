@@ -1,1 +1,1 @@
-Proje pour démo des branches GIT
+Projet pour démo des branches GIT
